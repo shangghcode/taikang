@@ -27,6 +27,7 @@
             <groupId>com.leyou</groupId>
             <artifactId>ly-common</artifactId>
             <version>1.0-SNAPSHOT</version>
+            sdf
         </dependency>
     </dependencies>
     <build>
